@@ -1,0 +1,7 @@
+{
+  "name": "Learn with Asya",
+  "description": "An AI-powered English learning companion where you can practice speaking and writing with Asya, your friendly language tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
